@@ -8,6 +8,8 @@ xcuserdata
 *.pyc
 *.c
 
+build/
+
 *.xcworkspace
 
 modules-and-plug-ins/max-external/build
